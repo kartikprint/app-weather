@@ -1,5 +1,4 @@
 {
   "version": 2,
-  "bulids": [{ "src": "../city.js", "use": "@vercel/node" }],
   "router": [{ "source": "/(.*)", "destination": "/" }]
 }
