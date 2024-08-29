@@ -4,5 +4,16 @@
     "node": "14.18",
     "node-fetch": "^2.7.0",
     "pnpm": "^9.9.0"
-  }
+  },
+  "name": "weather-app",
+  "version": "1.0.0",
+  "main": "city.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
